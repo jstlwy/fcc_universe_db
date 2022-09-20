@@ -1,0 +1,10 @@
+name,alternate_names,description,constellation,galaxy_id,distance_in_ly,temp_in_k
+Sun,,"The sun goddess Amaterasu is the most important deity in the Shinto religion, and she is believed to be the direct ancestor of all Japanese emperors.",,1,0.0000158,5800
+Sirius,Alpha Canis Majoris,The Ancient Greeks thought that Sirius's emanations could affect dogs adversely.,Canis Major,1,8.60,9940
+Polaris,North Star or Alpha Ursae Minoris,,Ursa Minor,1,433,6015
+Betelgeuse,Alpha Orionis,"Its name is derived from a misreading of the Arabic ""yad al-jawza.""",Orion,1,548,3600
+Rigel,Beta Orionis,"In Japan, the Minamoto or Genji clan chose Rigel and its white color as its symbol, calling the star ""Genji-boshi.""",Orion,1,863,12100
+Vega,Alpha Lyrae,"To the ancient Greeks, the constellation Lyra was formed from the harp of Orpheus, with Vega as its handle.",Lyra,1,25.04,9602
+Antares,Alpha Scorpii,"In the Babylonian star catalogues dating from at least 1100 BC, Antares was called ""the Breast of the Scorpion.""",Scorpius,1,550,18500
+Kepler-186,,,Cygnus,1,579.23,3755
+Kepler-452,,,Cygnus,1,1820,5757
