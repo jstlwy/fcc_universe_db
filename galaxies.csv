@@ -1,7 +1,7 @@
-name,description,galaxy_type,galaxy_type_id,year_discovered,distance_in_ly,diameter_in_ly
-Milky Way Galaxy,"This is the galaxy containing the Sun and its Solar System, and therefore Earth.",spiral,3,,0,
-Canis Major Dwarf,"Some astronomers believe that it is a dwarf galaxy in the process of being pulled apart by the gravitational field of the more massive Milky Way galaxy.",irregular,4,2003,2.5E+04,
-Andromeda,"It is expected to collide with the Milky Way galaxy in around 4–5 billion years, merging to form a giant elliptical galaxy or a large lenticular galaxy.",spiral,3,,2.45E+06,
-Sagittarius Dwarf Elliptical Galaxy,"The dissipation of this galaxy's main cluster and its merger with the Milky Way stream is expected to be complete within a billion years from now.",elliptical,1,1994,8.1E+04,
-Large Magellanic Cloud,"Largest satellite galaxy of the Milky Way",spiral,3,,1.63E+05,
-Small Magellanic Cloud,"Astronomers speculate that it was once a barred spiral galaxy that was disrupted by the Milky Way to become somewhat irregular.",irregular,4,,1.97E+05,
+name,galaxy_type_id,year_discovered,distance_in_ly
+Milky Way,3,,0
+Canis Major Dwarf,4,2003,2.5E+04
+Andromeda,3,,2.45E+06
+Sagittarius Dwarf Elliptical,1,1994,8.1E+04
+Large Magellanic Cloud,3,,1.63E+05
+Small Magellanic Cloud,4,,1.97E+05
