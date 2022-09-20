@@ -49,7 +49,7 @@ SET default_table_access_method = heap;
 
 CREATE TABLE public.galaxy (
     galaxy_id integer NOT NULL,
-    name character varying(30) NOT NULL,
+    name character varying(50) NOT NULL,
     description text,
     galaxy_type_id integer,
     year_discovered integer,
@@ -126,7 +126,8 @@ CREATE TABLE public.moon (
     description text,
     mean_surface_temp_in_c double precision,
     mean_radius_in_km double precision,
-    surface_g_in_m_per_s2 numeric(10,5)
+    surface_g_in_m_per_s2 numeric(10,5),
+    year_discovered integer
 );
 
 
@@ -168,7 +169,8 @@ CREATE TABLE public.planet (
     has_ring_system boolean,
     has_global_magnetic_field boolean,
     diameter_in_km double precision,
-    surface_temp_in_c double precision
+    mean_surface_temp_in_c double precision,
+    year_discovered integer
 );
 
 
@@ -240,7 +242,8 @@ CREATE TABLE public.star (
     name character varying(30) NOT NULL,
     description text,
     distance_in_ly double precision,
-    temp_in_k double precision
+    temp_in_k double precision,
+    year_discovered integer
 );
 
 
